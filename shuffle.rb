@@ -23,3 +23,6 @@ def shuffle arr
 end
 
 puts(shuffle([1,2,3,4,5,6,7,8,9]))
+
+# copied and reviewed solution from LTP book
+# to understand the process/logic

@@ -26,3 +26,6 @@ end
 
 a = ['g', 's', 's', 'c', 'b', 'w', 'a']
 puts sort(a)
+
+# copied and reviewed solution from LTP book
+# to understand the process/logic

@@ -24,3 +24,6 @@ def rec_dict_sort unsorted, sorted
 end
 
 puts(dictionary_sort(['can', 'feel', 'singing', 'like', 'A','can']))
+
+# copied and reviewed solution from LTP book
+# to understand the process/logic
