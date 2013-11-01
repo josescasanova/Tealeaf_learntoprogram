@@ -1,0 +1,1 @@
+These are the exercise examples for the Learning to Program book.
